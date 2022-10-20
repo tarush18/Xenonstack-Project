@@ -10,6 +10,7 @@
 2.CSS ---FRONTEND(Styling)
 3.PHP -- BACKEND
 4.MYSQL --DATABASE
+5.META TAG , MEDIA QUERY , BOOTSTRAP -- RESPONSIVENESS
 
 **PROJECT DESCRIPTION START**
 Firstly I make one registration.php file in which i create a register page 
@@ -33,6 +34,15 @@ new user . if you are new user click on sign up link . you go the registration p
 **Design of Login Page**
 ![image](https://user-images.githubusercontent.com/93340107/196838304-6bb76492-ff5b-4dd8-81c1-6f22e8e9c68f.png)
 
+**After Successful Login**
+Redirected to my car dealer website in which i only include home page with logout button . 
+![image](https://user-images.githubusercontent.com/93340107/196845418-1f158005-c27d-4167-8377-f15d9d8f9e66.png)
+
+**Design of Website**
+  ![image](https://user-images.githubusercontent.com/93340107/196845648-8e4e606d-ccc9-450c-9e47-8305f5df5017.png)
+  ![image](https://user-images.githubusercontent.com/93340107/196845749-2c6bdb05-d0b6-4f97-88b5-5485a1b11d1a.png)
+  -- in logout button i use the session but somehow is not working . 
+  
 **Database**
 Now i go to the Phpmyadmin i make database of name "car selling" in which i create one table of registration
 that store the data of users that register on website after that we use that data for login the users . 
